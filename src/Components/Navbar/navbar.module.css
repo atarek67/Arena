@@ -1,0 +1,21 @@
+.navBar{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    background-color: rgb(44, 44, 44);
+}
+
+ul{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: green;
+}
+a:hover{
+    text-decoration: none;
+    color: rgb(0, 84, 0);
+}
